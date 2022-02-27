@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betvvixt a courtier and a scholler: Wherein severall passages of state are briefly discuste for the further satisfaction of the common people.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81428</idno>
+            <idno type="STC">Wing D1346</idno>
+            <idno type="STC">Thomason E122_7</idno>
+            <idno type="STC">ESTC R5010</idno>
+            <idno type="EEBO-CITATION">99872768</idno>
+            <idno type="PROQUEST">99872768</idno>
+            <idno type="VID">125214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125214)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E122[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betvvixt a courtier and a scholler: Wherein severall passages of state are briefly discuste for the further satisfaction of the common people.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Annotation on Thomason copy: "Octob: 13. 1642".</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:125214:1" rendition="simple:additions"/>
+            <head>A DIALOGVE BETVVIXT A <hi>CO<g ref="char:V">Ʋ</g>RTIER</hi> AND A <hi>SCHOLLER:</hi> Wherein ſeverall Paſſages of State are briefly diſcuſte for the further ſatisfaction of the Common People.<add>Octob: 13. 1642</add>
+            </head>
+            <sp>
+               <speaker>Courtier.</speaker>
+               <p>SIR, <seg rend="decorInit">Y</seg>Ou are well overtaken, your habit renders you to be a Scholler, and (for the preſent) a traveller likewiſe; I ſuppoſe you have been at <hi>London,</hi> and elſewhere, to viſit friends, as well as I that am an honeſt Cour<g ref="char:EOLhyphen"/>tier.</p>
+            </sp>
+            <sp>
+               <speaker>Scholler.</speaker>
+               <p>Sir, I am a meane Scholler, and as you conjectured, have been in <hi>London,</hi> and other parts of the Kingdome, to ſee ſome old acquain<g ref="char:EOLhyphen"/>tance, which now I did the rather, leaſt my purpoſe ſhould have been prevented by the great concourſe of Cavaliers that doe daily in<g ref="char:EOLhyphen"/>creaſe in all parts, which is a meanes of begetting and increaſing jea<g ref="char:EOLhyphen"/>louſies and feares in the hearts of travellers.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What ſay people in thoſe parts where you have been, con<g ref="char:EOLhyphen"/>cerning the differences betwixt the King and Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Truely Sir, they tell me that they are amazed about thoſe differences, in regard both King and Parliament, doe ſolemnly pro<g ref="char:EOLhyphen"/>feſſe in their Declarations, &amp;c. that they doe chiefely and ſolely in<g ref="char:EOLhyphen"/>tend the good both of Church and Common-wealth, and yet not<g ref="char:EOLhyphen"/>withſtanding, have now at laſt after the loſſe of much time, and ex<g ref="char:EOLhyphen"/>pence
+<pb n="2" facs="tcp:125214:2"/>of a vaſt ſumme of the publique treaſure, argued themſelves into a civill combuſtion; and ingaged the Kingdome in an unn<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>turall and bloudy warre.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>I pray thee Scholler tell me, ſince both pretend to make the common good the end that all their undertakings drive at, and yet goe two wayes, directly contrary to effect <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, whether of the two is beſt beleeved by the Vulgar?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Sir, they tell us in the generall, that they never heard of any Parliament, being rightly choſen and aſſembled, that did ever pre<g ref="char:EOLhyphen"/>judice the Common-wealth, and therefore they dare not entertaine diſhonourable thoughts of this, eſpecially ſince the experience they have had of ſome, and the information they have had of others of theſe Worthies, hath rendered them faithfull to their Countrey, in<g ref="char:EOLhyphen"/>ſomuch, that what ever pretences may be made by the one partie or the other, yet they are reſolved to follow our Saviours rule, in judg<g ref="char:EOLhyphen"/>ing of the Tree by its fruit. Now Sir, I muſt needs tell you, they ha<g ref="char:EOLhyphen"/>ving lately ſeene our ſtately Cedar invironed with the fluttering Ivie of Prelacie, Popery, and Delinquencie, it makes them jealous; for they ſticke not to demand, why a King of <hi>England</hi> (being ſeduced by evill Counſell) may not ſay, he hath done, and will doe that, which he neither hath done, nor intends to doe, as well as a King of <hi>Iſrael,</hi> whom God had appointed to be annointed over the people, boaſted that he had done that, which afterwards he confeſt he had not done.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Hath not the King of late both fully and frequently decla<g ref="char:EOLhyphen"/>red himſelfe, that he will maintaine the Proteſtant Religion, the Lawes of the Land, the Liber<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies of the Subject, and the Priviledges of Parliaments. I hope he is beleeved, and none make queſtion of the reall performance of what he hath promiſed?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Beleeve it Sir, the people diſtinguiſh betwixt thoſe promi<g ref="char:EOLhyphen"/>ſes that are made by a King ſeduced by evill Counſell, and thoſe that are made by him when ſuch Counſellours are removed from him your ſelfe will ſay, I ſuppoſe, that, that man is very unlikely to per<g ref="char:EOLhyphen"/>forme his promiſe, that puts himſelfe into ſuch a condition wherein he will be neceſſitated to breake it; His Majeſtie hath heretofore decla<g ref="char:EOLhyphen"/>red, that he will maintaine the Proteſtant Religion, and yet by reaſon of the negligence (wilfull negligence its to be feared) of thoſe Coun<g ref="char:EOLhyphen"/>ſellours about his Majeſtie, we have ſeene that Popery hath been tole<g ref="char:EOLhyphen"/>rated, Maſſes frequented, Popiſh Prieſts and Jeſuites favoured; and
+<pb n="3" facs="tcp:125214:2"/>if at any time they have been queſtioned by ſome, and brought upon the ſtage of Juſtice, authoritie hath fetcht them off againe, as not ſuf<g ref="char:EOLhyphen"/>fering a haire of their heads to periſh; whilſt in the meane time, many of the faithfull Miniſters of Chriſt, faithfull to their flocks, have been ſuſpended, impriſoned, and unnaturally uſed, and Popiſh idle drones and ſuch like, advanced and promoted: Sir, the people mutter at theſe things.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Its ſtrange that the people ſhould have no more confidence in his Majeſties perſonall promiſes and proteſtations, then to draw up ſuch concluſions as theſe are, and that about Religion too, which is of ſuch everlaſting concernment to us all. Prethee what cauſe have they to thinke, that the Lawes of the Land, and the Liberties of the Sub<g ref="char:EOLhyphen"/>jects ſhould miſcarry, notwithſtanding the Kings ſolemne aſſurances, that he will innovate nothing?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>The ſmall ſatisfaction that people receive, notwithſtanding theſe reitterated proteſtations, fetches its rice from this ground; They ſay, that thoſe Councellours which heretofore have ſo often flattered his Majeſtic into errour, they remaining ſtill neere unto his perſon, and their whiſperings having a chiefe influence into his proceedings, may prove fatall both to himſelfe, and his good people, and in a ſhort time wooe his Majeſties reſolutions out of his ſacred breaſt, and di<g ref="char:EOLhyphen"/>vert his good intentions that he had towards his people. Sir, they have had large experience of the accurſed fruits of theſe counſells, the mul<g ref="char:EOLhyphen"/>titude of Monopol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, the exaction of Loane-money, Ship-money, Goate and Conduct-money doc ſufficiently witneſſe this: Beſides their endeavours to advance the Prerogative beyond its due limits, and their ſuppreſſing of the Subjects Liberties, their attempts to para<g ref="char:EOLhyphen"/>lell the Government of this Kingdome with that of <hi>France,</hi> and this (as ſome conceive) hath uſher'd in this inteſtine broyle, that ſo in caſe his Majeſtie conquer, our old and new Lawes may be deſtroyed, and he reigne over us as a conquer'd people by his will. And now of late their drawing of his Majeſtie from the Parliament, which hath been an unſpeakable impediment to their proceedings; the manifeſt retarding of ſupplyes for <hi>Ireland,</hi> if not countenancing of the rebelli<g ref="char:EOLhyphen"/>on there; the late executing of the Commiſſion of Array, the inlet of beggery and ſlavery; their plundering, and firering of the houſes of his Majeſties Subjects, their ſlaying of their perſons, and exerciſing of moſt barbarous and inhumane cruelties, and all becauſe people will not renounce their Religion, Lawes, and Liberties, and all that can be
+<pb n="4" facs="tcp:125214:3"/>called theirs. Sir, theſe notorious acts of injuſtice are not the Kings' but his Miniſters, who then can expect that theſe unnatural Vines ſhould ever bring forth good grapes, or that a Prince looking through the falſe glaſſe of their counſels, ſhould poſſibly diſcerne, or be ina<g ref="char:EOLhyphen"/>bled to judge what may be good for his people.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>I but Scholler, thou knowſt the King hath done much in the purſuance of his promiſe made to maintaine the Proteſtant Religion by two late Proclamations, the one for diſarming of Papiſts, and the other for prohibiting any to be of his Army, unleſſe they ſhould firſt take the Oaths of Supremacy and Alleageance?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>But Sir, what ſatisfaction can this give the people, ſince it is notoriouſly knowne, that many Papiſts are ingaged in this ſervice, and ſome too necre His Majeſties perſon, and that in many places they have had their Armes reſtored, and been themſelves incouraged: pray Sir, who is it that rejoyces more in the diviſions and diſtracti<g ref="char:EOLhyphen"/>ons of this Kingdome then they? Aſſure your ſelfe, their continuall countenancing, ſupplying and aſſiſting of his Majeſties Forces, ren<g ref="char:EOLhyphen"/>ders them to ſtand a tip-toe, expecting a bootie in the iſſue if that partie prevaile. Beſides Sir, we know the ſhifts of many of them for the preſent, their good ſervice here hath merited diſpenſations from the Pope, that will tolerate them to goe to our Church, and receive the Sacrament, and to take the aforementioned Oaths, and any thing elſe, ſo they can but deſtroy the Proteſtants.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Well, letting thoſe things paſſe, thou knowſt S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>holler, that of late the King hath ſent to the Parliament Propoſitions of Pacifi<g ref="char:EOLhyphen"/>cation, that ſome might meete on both ſides, to avoyd the ſhedding of bloud, and the Parliament refuſes to appoint any; what thinkſt thou now, at whoſe hands ſhall all that bloud be required that already hath been and is like to be ſpilt?</p>
+            </sp>
+            <sp>
+               <speaker>Sc.</speaker>
+               <p>The Parliament hath ſufficiently anſwered the grounds of that denial; Sir the intent of thoſe Propoſitions may be gueſt at by that pre<g ref="char:EOLhyphen"/>cedent Declaration, which at one clap rendred the whole Parliament an aſſembly of Traytors, and in that reſpect not capable to treat, and yet this muſt uſher in Propoſitions of a Treatie; Sir the Parliament deſires that juſtice may be done for Juſtice ſake, without leaning to the right hand or to the left: beſides Sir, where to find fit parties to treat betwixt the King and his Parliament I know not; but this I am ſure of, that if it would pleaſe his Majeſtie to concurre with his great
+<pb n="5" facs="tcp:125214:3"/>and beſt Councell, that treatie would ſoon be ended; believe it Sir, the ſtrongeſt Bulwarks his Majeſtie can make to ſecure his royall Perſon, Crown and Dignitie, muſt have their foundations laid in the affections of his Parliament and liege people, and not in the tottering pollicies of ſome Malignant and Delinquent Counſellours, backt by the undi<g ref="char:EOLhyphen"/>ſtinguiſhing vulgar.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Prethee Scholler what wouldſt thou have the King to do? what doeſt thou conceive would give thy ſelf and other his good peo<g ref="char:EOLhyphen"/>ple (as thou callſt them) ſatisfaction?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Truly Sir, I am confidently aſſured, that if his Majeſtie would be pleaſed to return to his Parliament, and to concurre with their Counſels, they would make him the happieſt Prince this day in Chriſtendome; and this I doubt not would give ſatisfaction to himſelf, and his Subjects alſo.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Doeſt thou think this would bury all acts of injuſtice (occa<g ref="char:EOLhyphen"/>ſioned by his evill Counſell) in oblivion, and exalt him in the affecti<g ref="char:EOLhyphen"/>ons of his Subjects: ſo, that upon all lawfull occaſions he may com<g ref="char:EOLhyphen"/>mand their hearts, perſons, and eſtates?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>For my part ſir, I am confident it would, eſpecially when ſome few ſcruples are removed, as the pretended paſſage of thoſe let<g ref="char:EOLhyphen"/>ters twixt his Majeſtie and the Pope; and further to vindicate his in<g ref="char:EOLhyphen"/>nocencie from thoſe unhappie acts wherein thoſe wicked Counſellors had moſt diſhonourably ingaged him (by ſetting the ſadle upon the right horſe) as the publiſhing of the book that gave libertie to the ex<g ref="char:EOLhyphen"/>erciſing of ſports and paſtimes upon the Lords Day, the authorizing of the late popiſh prejudiciall Canons, the delaying to ſend forth Pro<g ref="char:EOLhyphen"/>clamations about the <hi>Iriſh</hi> Rebellion, the Commiſſions or other au<g ref="char:EOLhyphen"/>thority that the Rebels pretend to have from his Majeſtie, the ſtaying of the Lord Deputie of <hi>Ireland;</hi> and the ſtopping of proviſions ſent by the Parliament for the reliefe of the Proteſtants there. Sir, would his Majeſtie be pleaſed to clear himſelf of theſe and ſuch like things, which have bred jealouſies in the hearts of his Subjects it would be a means to gain infinitely upon the affections of his people, and to adde a glorious luſtre to his undertakings, which will the more facillie be effected when it ſhall once pleaſe his Majeſtie to conclude his intereſt to be, to unite, and not to divide his Subjects, by which meanes he may lay a ſtable foundation of peace to himſelf, his poſteritie, and his people. Would he ſay to his great Councell as <hi>David</hi> did to his Coun<g ref="char:EOLhyphen"/>ſellours, <hi>What ſeemeth you beſt that will I do:</hi>
+                  <note place="margin">2 Sam 18.4<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> then no doubt but that all
+<pb n="6" facs="tcp:125214:4"/>his Majeſties ſayings and doings would be ſo acceptable to his people, that it ſhould be ſaid of him as it was of <hi>David, That whatſoever the King did pleaſed all the people.</hi> 2 Sam. 3.36.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Thou ſpeakſt honeſtly, haſt thou any thing more to adde?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Yes ſir, a word concerning your ſelf, and that is about <hi>Da<g ref="char:EOLhyphen"/>vids</hi> reſolution laid down in the 101. Pſalme, where he ſpeaks of a Court-reformation, Sir I am of opinion, that if it would pleaſe his Majeſtie to caſhiere ſuch Courtiers as <hi>David</hi> there reſolved to caſt out of his preſence, there would be but a few left with our King, and then what would become of you and many of my Coat I know not.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Well no more of that, but now thou ſpeakſt of Scripture, prethee tell me, Parſon, what wouldſt thou make the ſubject of thy diſcourſe if thou were to preach before the King?</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>I would make choice of that portion of Scripture in the 1. <hi>King.</hi> 12.7, 8. hence I would urge the excellencie of that advice which was given by the Counſellors of <hi>Solomon</hi> to <hi>Rehoboam,</hi> laid down in the 7. verſe, <hi>viz. And they ſaid, If thou wilt be a ſervant unto this people this day, and wilt ſerve them, and anſwer them, and ſpeak good words to them, then they will be thy ſervants for ever.</hi> Then having demonſtrated the worth of that advice in ſundrie reſpects, I would proceed to the following verſe, and therein would ſhew the ſad and dangerous con<g ref="char:EOLhyphen"/>ſequence of <hi>Rehoboam:</hi> diſſerting of the counſell of the old man, and adhering to, and confiding in the deſtructive advice of the young men, which was to ſpeak roughly to the people, and to make their yoke heavier, by adding to their former oppreſſions; and thus I would ſpend the whole houre in explicating this Scripture, for I beleeve the weakeſt of my auditory would be able to apply it.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Beleeve it, Parſon, the Courtiers would judge thee to be a Schiſmaticall factious fellow.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>I care not for that, if ever there were a time for Gods Mini<g ref="char:EOLhyphen"/>ſters to cry aloud, and to tell the people of their ſins; I am ſure ſir a Kingdom divided in it ſelf cannot ſtand.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>I have but a word or two more to ſpeak, and then I'le leave thee; Prethee tell me truly what in thy judgement thou conceiv'ſt to be the cauſe, that may of thoſe great Stateſmen and Counſellours now with the King are ſo averſe to the Parliament? For I do ingeni<g ref="char:EOLhyphen"/>ouſly confeſſe, that I am convinc'd in this, that how ever they pre<g ref="char:EOLhyphen"/>rend to retain honourable thoughts of Parliaments, yet their actions
+<pb n="7" facs="tcp:125214:4"/>carry in them a bitter malignitie to Parliaments.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Sir, many of the Counſellors of State (his Majeſties unhap<g ref="char:EOLhyphen"/>pie Favourites and flatterers) whoſe conſultations and actions ought principally to have reſpected the common-good, they have moſt un<g ref="char:EOLhyphen"/>naturally betrayed (as much as in them lies) the liberties of the ſubject, and moſt notoriouſly abuſed the truſt repoſed in them, by which meanes they have rendred themſelves friends and favourers of in<g ref="char:EOLhyphen"/>juſtice and tyrannie, which makes them now afraid to look their ſpotted faces in the true glaſſe of a Parliament; ſhunning the remedy that thereby they might increaſe the diſeaſe: And certainly ſir, their treacherous dealings are now boyld up to ſuch a height, that rather then acknowledge any unlawfull act, they will ſtrive for an unlawfull power to give it countenance.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>I am well ſatisfied upon thy anſwer. Yet I think this might have been added, for their envie and malice ſeems partly to ſpring from this: They tell us that lived peaceably and quictly before ſuch time as this and the laſt Parliament were called; but now queſti<g ref="char:EOLhyphen"/>ons are raiſed, and differences fomented, and the peace of the King<g ref="char:EOLhyphen"/>dome diſturbed, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Truly ſir, it was a miſerable peace that they and others like<g ref="char:EOLhyphen"/>wiſe injoyed, being it was built upon the ruines of Law and Libertie; and I beleeve that there are few ſo beſotted but they can tell you of tho great inrode that theſe men had made upon the Liberties of the ſub<g ref="char:EOLhyphen"/>ject; their perverting of the Laws of the Land, and their tyrannizing over mens conſciences, did crie out moſt vehemently for reformation, which could onely be hopte for in a Parliament: And I am perſwaded ſir, that had not this Parliament been called, and continued as it hath been, we had been moſt of us long ſince either dead men, or living ſlaves. Sir, this happie conſtitution of Parliaments is ſo eſſentiall to the well being of this Kingdom, that neither the juſt Prerogative of the King, nor the rightfull priviledges of the Subjects, could be main<g ref="char:EOLhyphen"/>tained without it. It was a wittie ſimilie of his, that ſaid the Prero<g ref="char:EOLhyphen"/>gative was like unto a Stag, and the Liberties of the Subject unto a Corn-field, and the Parliament like unto the Park pale that keeps the Stag out of the Corn. Now ſir, I ſuppoſe you would account it folly and madneſſe in him that ſhould condeſcend to have the pale puld up, and take the Stags word that he will not come into the corn.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>I give thee hearty thanks for thy good company; yet this I'le tell thee before I leave thee, that though thou haſt perſwaded me,
+<pb n="8" facs="tcp:125214:5"/>yet I will not be perſwaded: and though thou haſt convinc'd me, yet I will not be convinced, for I am a Courtier.</p>
+            </sp>
+            <sp>
+               <speaker>Schol.</speaker>
+               <p>Sir take this with you, ſuch hath been the corruption of Courtiers, and ſome State-Counſellors, that it hath begot a univerſall diffidence in the people; Inſomuch that all the honeſt and true-heart<g ref="char:EOLhyphen"/>ed Commons in <hi>England</hi> do now ſeem joyntly to look both for their ſafetie, their well being, yea and being it ſelf, from the Parliament. And ſo adieu Courtier.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
